@@ -1,0 +1,87 @@
+body{
+	margin: 0;
+	line-height: 25px;
+	font-family: arial;
+	background-color: lightgrey;
+}
+
+header{
+	text-align: center;
+	background-image:url('https://i.pinimg.com/736x/51/87/f3/5187f305823ef0706bd50364b1a4a202--dog-paws-blue-dog.jpg');
+	padding:20px;
+
+	
+}
+
+header img{
+	border-radius: 170px;
+	width:300px;
+	border:20px solid black;
+
+
+}
+
+main{
+	margin:0 auto;
+	max-width: 800px;
+	padding: 0 20px;
+}
+main img{
+	width: 100%;
+	border-radius: 100px;
+}
+
+
+header h1{
+	color: Black;
+	font-size: 80px;
+	font-weight: bolder;
+	margin-top: 30px;
+	
+
+}
+
+h2{
+	font-size: 60px;
+	color: #5DADE2;
+}
+
+p{
+	font-size: 28px;
+	
+}
+h1, h2{
+	font-family: 'Indie Flower', cursive;
+
+}
+ul{
+	font-family: arial;
+	font-size: 18px;
+
+}
+
+a{
+	color: #5DADE2;
+}
+a:hover{
+	
+	color: blue;
+}
+footer{
+	background-color:#5DADE2;
+	padding: 10px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 25px;
+	color:white;
+	font-family: 'Indie Flower', cursive;
+}
+
+p.caption{
+
+	color:#5DADE2;
+	margin:0 auto;
+	font-size: 20px;
+	font-style: italic;
+	text-align: center;
+}
